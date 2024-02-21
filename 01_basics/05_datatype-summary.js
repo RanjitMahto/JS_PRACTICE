@@ -36,7 +36,7 @@ console.log("hello")
 }
 
 
-console.log(typeof myFunction);//function
+console.log(typeof myFunction);//function(object)
 console.log(typeof myObj);    //object
 console.log(typeof heroes);   // object
 console.log(typeof id);      //symbol

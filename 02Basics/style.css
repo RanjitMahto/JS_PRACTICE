@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This ensures the entire viewport height is covered */
+    margin: 0;
+    background-color: rgb(72, 78, 78);
+  }
+  .center {
+    text-align: center;
+    color: rgb(115, 197, 149);
+  font-weight: bold;
+  }
+  #banner {
+    margin-bottom: 10px; /* Optional spacing between banner and clock */
+  }
+  #clock{
+    border: 2px solid rgb(53, 49, 49);
+    height: 30px;
+    width:100px;
+    background-color: chocolate;
+    border-radius: 5px;
+    color: white;
+    margin-left: 4px;
+  
+  }
